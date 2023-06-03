@@ -1,1 +1,1 @@
-Usage example: python traceroute.py google.com
+Usage example: python portscan.py example.com -t -p 1 100
